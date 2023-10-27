@@ -2,7 +2,7 @@
 Setting up a project with testcontainer configuration
 
 
----
+~~~
 singleton container + flyway inicializado manualmente
 
 /**
@@ -50,3 +50,4 @@ public abstract class IntegrationTestBase {
     }
 
 }
+~~~
